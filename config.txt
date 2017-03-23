@@ -1,6 +1,6 @@
 brightness=200
-R=178
-G=102
+R=127
+G=0
 B=255
 W=0
 LED_COUNT=24
